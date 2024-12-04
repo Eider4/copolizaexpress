@@ -1,0 +1,132 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.modal {
+  background: white;
+  border-radius: 3px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 626px;
+  height: 532px;
+}
+.modal2 {
+  background: white;
+  border-radius: 3px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 626px;
+height: 444px;
+}
+
+.modalBackdrop {
+  background-color: rgba(30, 16, 69, 0.9) !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.reloj {
+  margin-top: 30px;
+}
+
+.iconContainer {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 32px;
+  margin-top: 30px;
+  font-family: "roboto Medium";
+}
+
+.timer {
+  font-size: 40px;
+  margin: 20px 0;
+  font-family: "roboto Medium";
+  color: #1a1446;
+  opacity: 0.6;
+}
+
+.description {
+  font-size: 16px;
+  color: #343741;
+  font-family: "roboto Medium";
+}
+.description2 {
+  font-size: 16px;
+  color: #343741;
+  font-family: "roboto Bold";
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  height: 116px;
+  background-color: #F0FBFC;
+  margin-top: 45px;
+  padding-top: 50px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.buttons2 {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  height: 116px;
+  background-color: #F0FBFC;
+  margin-top: 55px;
+  padding-top: 50px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.closeButton {
+  background-color: #ffffff;
+  color: #1a1446;
+  border: 1px solid #1a1446;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "roboto Medium";
+  border-radius: 5px;
+  cursor: pointer;
+  border-bottom: 3px solid #919191;
+  width: 220px;
+  height: 48px;
+}
+
+.continueButton {
+  background-color: #99e3ea;
+  color: #1a1446;
+  border: 1px solid #99e3ea;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "roboto Medium";
+  border-radius: 5px;
+  cursor: pointer;
+  border-bottom: 3px solid #06748c;
+  width: 220px;
+  height: 48px;
+}
+
+.esclamacion{
+  width: 89px;
+height: 89px;
+}
+
+.cerrar{
+    text-align: right;
+    margin: 20px;
+}

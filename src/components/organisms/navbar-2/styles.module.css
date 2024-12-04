@@ -1,0 +1,51 @@
+.title {
+  font-family: normal normal 12px/14px "roboto regular";
+  font-size: 12px;
+  margin: 0;
+  padding: 0 8px;
+  display: inline-block;
+}
+
+.title.grey {
+  color: #343741;
+}
+
+.title.blue {
+  color: #28a3af;
+}
+
+.arrow {
+  width: 5px;
+  height: auto;
+  margin: 0 3px;
+  vertical-align: middle;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+  margin-left: 120px;
+  padding-right: 200px;
+}
+
+.button {
+  border: none;
+  border-bottom: 2px solid #06748c;
+  border-radius: 6px;
+  background-color: #99e3ea;
+  color: #1a1446;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: normal normal normal 16px/19px "roboto Bold";
+  transition: all 0.3s ease;
+}
+
+.button:hover {
+  background-color: #06748c;
+  color: white;
+  border-bottom: 2px solid #1e1045;
+}

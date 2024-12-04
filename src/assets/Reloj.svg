@@ -1,0 +1,39 @@
+<svg id="Group_8" data-name="Group 8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.539" height="93.462" viewBox="0 0 97.539 93.462">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_34" data-name="Rectángulo 34" width="56.31" height="56" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Mask" d="M0,17.692A17.693,17.693,0,1,1,20.959,35.079V33a15.649,15.649,0,1,0-3.267.345c.362,0,.721-.016,1.077-.041v2.047c-.357.021-.715.037-1.077.037A17.713,17.713,0,0,1,0,17.692Zm16.8,8.094V18.817H9.6V16.775h7.2V9.6h2.042v7.176h6.944v2.042H18.842v6.969Z" fill="#13112b"/>
+    </clipPath>
+  </defs>
+  <g id="Group_23_Copy" data-name="Group 23 Copy" transform="translate(0 4)">
+    <circle id="Oval" cx="44.231" cy="44.231" r="44.231" transform="translate(0.5 0.5)" fill="#f0fbfc" stroke="#99e5ea" stroke-width="1"/>
+    <g id="Tiempo_01" data-name="Tiempo 01" transform="translate(44.155 44)">
+      <g id="Grupo_59" data-name="Grupo 59" transform="translate(-28.155 -28)" clip-path="url(#clip-path)">
+        <path id="Trazado_21" data-name="Trazado 21" d="M14.215,18.427H12.807a2.252,2.252,0,0,0-.845,4.223h3.379a2.322,2.322,0,0,0-1.126-4.5" transform="translate(19.571 32.815)" fill="#1a1446"/>
+        <path id="Trazado_22" data-name="Trazado 22" d="M18.468,10.319l.845,1.126a2.252,2.252,0,0,0,3.379-2.534l-.563-1.689a2.274,2.274,0,0,0-4.223,1.689l.563,1.408" transform="translate(32.21 10.515)" fill="#1a1446"/>
+        <path id="Trazado_23" data-name="Trazado 23" d="M16.168,17l-1.126.845a2.252,2.252,0,0,0-.845,3.1l.563.845a2.252,2.252,0,0,0,2.534,0l1.408-.845a2.252,2.252,0,0,0-2.534-3.66" transform="translate(25.22 30.863)" fill="#1a1446"/>
+        <path id="Trazado_24" data-name="Trazado 24" d="M22.911,10.964a2.257,2.257,0,0,0-4.5.282c0,.563,0,.845,0,1.408a2.252,2.252,0,0,0,.845,1.971h1.126a2.252,2.252,0,0,0,2.252-2.252V10.683" transform="translate(33.399 16.064)" fill="#1a1446"/>
+        <path id="Trazado_25" data-name="Trazado 25" d="M20.757,15.149a2.252,2.252,0,0,0-3.1.563l-.845,1.126a2.252,2.252,0,0,0,.282,3.1h.282a2.252,2.252,0,0,0,3.1-.282l.563-1.408a2.252,2.252,0,0,0-.563-3.1" transform="translate(29.64 26.802)" fill="#1a1446"/>
+        <path id="Trazado_26" data-name="Trazado 26" d="M21.349,12.363a2.252,2.252,0,0,0-2.815,1.408l-.563,1.408a2.252,2.252,0,0,0,.845,2.534h.563A2.252,2.252,0,0,0,22.194,16.3l.563-1.689A2.252,2.252,0,0,0,21.349,11.8" transform="translate(32.427 21.423)" fill="#1a1446"/>
+        <path id="Trazado_27" data-name="Trazado 27" d="M23.94,51.461a23.369,23.369,0,0,1-5.913-1.971h0L16.9,48.927h0L14.649,47.52a23.65,23.65,0,0,1,0-38.854h0A23.65,23.65,0,0,1,41.4,8.384l-1.689,2.534c-.563.845-.282,1.126.563,1.126l7.6-.563A1.408,1.408,0,0,0,49,9.792l-1.971-7.32c-.282-.845-.845-.845-1.408-.282L43.93,4.724A27.873,27.873,0,0,0,23.377.5L21.124.783h0A27.873,27.873,0,0,0,5.639,11.2h0v.563l-.563.845h0A27.873,27.873,0,0,0,.008,29.5h0V31.19h0v1.689a27.873,27.873,0,0,0,8.446,15.2h0l3.66,3.1a27.873,27.873,0,0,0,11.262,4.786,2.292,2.292,0,0,0,.845-4.5" transform="translate(-0.008 0.062)" fill="#1a1446"/>
+        <path id="Trazado_28" data-name="Trazado 28" d="M10.771,3.5A1.971,1.971,0,0,0,8.8,5.471v18.3L25.411,32.5h.845a1.971,1.971,0,0,0,.845-3.379l-14.359-7.6V5.471A1.971,1.971,0,0,0,10.771,3.5" transform="translate(15.976 6.354)" fill="#1a1446"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_32" data-name="Group 32" transform="translate(62.154)">
+    <path id="Oval-2" data-name="Oval" d="M12.268,32.584c9.283,0,15.8-6.576,15.8-15.858S23.168,0,13.885,0-4.595,3.461-4.771,17.256,2.985,32.584,12.268,32.584Z" transform="translate(6.461 1.769)" fill="#99e5ea"/>
+    <g id="Icons_Add_Circle_" data-name="Icons/Add Circle ">
+      <rect id="Icons_Add_Circle_background" data-name="Icons/Add Circle  background" width="35.385" height="35.385" fill="none"/>
+      <g id="Color_Liberty_Blue" data-name="Color/Liberty Blue">
+        <path id="Mask-2" data-name="Mask" d="M0,17.692A17.693,17.693,0,1,1,20.959,35.079V33a15.649,15.649,0,1,0-3.267.345c.362,0,.721-.016,1.077-.041v2.047c-.357.021-.715.037-1.077.037A17.713,17.713,0,0,1,0,17.692Zm16.8,8.094V18.817H9.6V16.775h7.2V9.6h2.042v7.176h6.944v2.042H18.842v6.969Z" fill="#13112b"/>
+        <g id="Color_Liberty_Blue-2" data-name="Color/Liberty Blue" clip-path="url(#clip-path-2)">
+          <g id="Color_Liberty_Blue-3" data-name="Color/Liberty Blue" transform="translate(-56.026 -56.026)">
+            <rect id="Rectangle" width="147.436" height="147.436" fill="#1a1446"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

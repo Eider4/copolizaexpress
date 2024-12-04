@@ -1,0 +1,66 @@
+.container {
+  height: 85px;
+   gap: 10px;
+   background-color: #ffd000; 
+   display:flex;
+   justify-content: space-between;
+   padding: 10px 80px;
+   padding-left: 144px;
+   padding-top: 10px;
+   padding-bottom: 10.5px;
+   padding-right: 110px;
+   align-items: center;
+   opacity: 1;
+  }
+
+  .leftSection {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    width: 103px;
+    height: 52px;
+  }
+  
+  
+  
+  .rightSection {
+    gap: 15px;
+    display: flex;
+    align-items: center;
+    top: 27px;
+    left: 969px;
+    height: 32px;
+  }
+  
+ 
+  
+  .button {
+    color: #1a1446; 
+    background-color: #ffd000;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "roboto Medium";
+    width: 122px;
+    height: 36px;
+    border: 1px solid #1E1045;
+    border-radius: 3px;
+    opacity: 100%;
+  }
+
+  .name{
+    font-size: 14px;
+    color: #1a1446;
+    font-weight: 400;
+    font-family: "roboto Medium";
+  }
+
+  .profile{
+    width: 30px;
+    height: 30px;
+  }

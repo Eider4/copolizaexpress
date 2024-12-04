@@ -1,0 +1,264 @@
+/* .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 626px;
+  height: 507px;
+  text-align: center;
+  padding: 20px;
+  background-color: aqua;
+}
+
+
+
+img {
+  width: 100px;
+  height: auto;
+}
+
+button {
+  top: 390px;
+  left: 488px;
+  width: 220px;
+  height: 48px;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 0px var(--unnamed-color-919191);
+  border: 1px solid var(--unnamed-color-1a1446);
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 0px #919191;
+  border: 1px solid #1a1446;
+  opacity: 1;
+}
+
+button:hover {
+  background-color: #ddd; 
+}
+
+button:first-of-type {
+  margin-right: auto; 
+}
+
+button:last-of-type {
+  margin-left: auto; 
+}
+
+.container div:last-child {
+  display: flex;
+  width: 100%; 
+  justify-content: space-between;
+}
+.titulo {
+  top: 225px;
+  left: 492px;
+  width: 456px;
+  height: 43px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-medium) var(--unnamed-font-size-32) / 38.4px
+    var(--unnamed-font-family-roboto-medium);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-1a1446);
+  text-align: center;
+  font: normal normal medium 32px/38px Roboto-Medium;
+  letter-spacing: 0px;
+  color: #1a1446;
+  opacity: 1;
+} */
+
+.div_root {
+    /* Layout Properties */
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* left: 407px; */
+    width: 626px;
+    height: 513px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 10px; */
+    padding: 40px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 5px;
+  }
+  
+  .title {
+    /* Layout Properties */
+  
+    width: 476px;
+    height: 43px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-medium) var(--unnamed-font-size-32) / 38.4px var(--unnamed-font-family-roboto-medium);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-1a1446);
+    text-align: center;
+    /* font: normal normal medium 32px/38px "roboto Medium"; */
+    font-size: 30px;
+    font-family: "roboto Medium";
+    letter-spacing: 0px;
+    color: #1a1446;
+    opacity: 1;
+    margin-bottom: 10px;
+  }
+  
+  .div_text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .text1 {
+    /* Layout Properties */
+    width: 464px;
+    /* height: 45px; */
+    /* UI Properties */
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-343741);
+    text-align: center;
+    letter-spacing: 0px;
+    color: #343741;
+    opacity: 1;
+    font-family: "roboto Medium";
+  }
+  
+  .text_num_quotation {
+    margin-top: 15px;
+    width: 464px;
+    height: 74px;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-343741);
+    text-align: center;
+    letter-spacing: 0px;
+    color: #343741;
+    opacity: 1;
+  }
+  
+  .text_num_quotation span {
+    top: 0px;
+    left: 247px;
+    width: 62px;
+    height: 14px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-12) / 19.2px var(--unnamed-font-family-roboto);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-28a3af);
+    text-align: center;
+    font: normal normal bold 12px/19px Roboto;
+    letter-spacing: 0px;
+    color: #28a3af;
+  }
+  
+  .div_btn {
+    margin: 0px;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 60px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button {
+    background-color: #99e3ea;
+    width: 242px;
+    height: 48px;
+    color: #1a1446;
+    border: 1px solid;
+    box-shadow: 0px 3px 0px #06748c;
+    border: 1px solid #99e3ea;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: "roboto Bold", "Roboto";
+    margin-right: 10px;
+    font-weight: 700;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    /* Suaviza el cambio de color */
+  }
+  
+  .button:hover {
+    background-color: #06748c;
+    /* Color cuando el mouse está encima */
+  }
+  
+  .button1 {
+    width: 220px;
+    height: 48px;
+    /* UI Properties */
+    border-radius: 10px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 0px var(--unnamed-color-919191);
+    border: 1px solid var(--unnamed-color-1a1446);
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 0px #919191;
+    border: 1px solid #1a1446;
+    opacity: 1;
+    color: #1a1446;
+    font-family: "roboto Bold";
+  }
+  
+  .button2 {
+    width: 220px;
+    height: 48px;
+    border-radius: 10px;
+    font-family: "roboto Bold";
+    border: 1px solid var(--unnamed-color-1a1446);
+    background: #ffffff;
+    box-shadow: 0px 3px 0px #919191;
+    border: 1px solid #1a1446;
+    color: #1a1446;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+  }
+  
+  .div_btn.single-button {
+    justify-content: center;
+  }
+
+
+  .footerContainer {
+    position: relative;
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 0px 0;
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
+    font-family: "roboto Regular", sans-serif;
+    z-index: 10;
+    color: red;
+    font-size: 12px;
+    margin-top: 30px;
+    padding-top: 20px;
+
+  }
+  
+  .footerTextt {
+    margin: 5px 0;
+    color: #343741;
+    font-size: 12px;
+    font-family: "roboto Regular";
+    opacity: 100%;
+    text-align: center;
+  }
+  
+  .footerText {
+    margin: 5px 0;
+    color: #343741;
+    font-size: 10px;
+    font-family: "roboto Italic";
+    opacity: 0.5;
+  }
+  
+  .footerLink {
+    color: #99e5ea;
+    text-decoration: none;
+  
+    font-family: "roboto Regular";
+    font-size: 12px;
+  }

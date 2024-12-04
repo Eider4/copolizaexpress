@@ -1,0 +1,71 @@
+.label {
+    position: relative;
+    width: 79px;
+    height: 14px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-12)/var(--unnamed-line-spacing-14) var(--unnamed-font-family-roboto-light);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-565656);
+    text-align: left;
+    font: normal normal 300 12px/14px Roboto-Light;
+    letter-spacing: 0px;
+    color: #565656;
+    opacity: 1;
+}
+
+.p_text {
+    top: 10px;
+    left: 10px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    /* Layout Properties */
+    /* top: 567px;
+    left: 333px; */
+    width: 375px;
+    height: 50px;
+    text-align: left !important;
+    padding-bottom: 15px !important;
+    padding-top: 45px !important;
+    /* Empuja el texto hacia abajo */
+    box-sizing: border-box;
+    /* Incluye el padding en el tamaño total del input */
+    /* UI Properties */
+    /* background: var(--unnamed-color-e6e6e6) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-919191); */
+    background: #E6E6E6 0% 0% no-repeat padding-box;
+    border: 1px solid #919191;
+    opacity: 1;
+    /* text-align: left; */
+}
+
+
+/* .container_input {
+    position: relative;
+    display: flex;
+    background-color: #ffffff;
+    width: 100px;
+    height: 20px;
+    margin: 20px;
+  
+    & .placeholder {
+      position: absolute;
+      top: var(--top-placeholder);
+      left: 0;
+      transition: top 0.5s ease;
+    }
+    & .input2 {
+      height: 50px;
+      width: 375px;
+    }
+  }
+  
+  .placeholder{
+      color: aqua;
+      border: 1px solid color(srgb red green blue);
+  }
+   */

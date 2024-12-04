@@ -1,0 +1,22 @@
+.container_input {
+    position: relative;
+    display: flex;
+    background-color: lightblue;
+    height: 20px;
+    width: 100px;
+    margin: 20px;
+
+    & .placeholder {
+        position: absolute;
+        top: var(--top-placeholder);
+        left: 0;
+
+        transition: top 0.5s ease;
+    }
+
+    & .input {
+        height: 100%;
+        width: 100%;
+    }
+
+}

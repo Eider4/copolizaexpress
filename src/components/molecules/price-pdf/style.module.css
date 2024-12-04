@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  color: #28a3af;
+  text-decoration: underline;
+  font-family: normal normal normal 18px/262px "roboto regular";
+  font-size: 18px;
+}

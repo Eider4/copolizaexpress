@@ -1,0 +1,39 @@
+.title {
+    /* UI Properties */
+    font-family: "roboto Medium";
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-32)/var(--unnamed-line-spacing-43) var(--unnamed-font-family-roboto-medium);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-1c1149);
+    text-align: center;
+    font: normal normal 300 32px/43px roboto Medium;
+    letter-spacing: 0px;
+    color: #1C1149;
+    opacity: 1;
+}
+
+.sub_title {
+    font-family: "roboto regular";
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-333742);
+    text-align: center;
+    font: normal normal medium 16px/26px "roboto regular";
+    letter-spacing: 0px;
+    color: #333742;
+    opacity: 1;
+    width: 680px;
+}
+
+.div_father {
+    /* Layout Properties */
+    margin-top: 50px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.div_plan_price {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}

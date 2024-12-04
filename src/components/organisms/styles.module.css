@@ -1,0 +1,41 @@
+.div_root {
+    display: flex;
+    width: 1032px;
+    justify-content: center;
+    margin-left: 60px;
+}
+
+
+
+.p_inf {
+    /* Layout Properties */
+    top: 759px;
+    left: 447px;
+    width: 737px;
+    height: 19px;
+    /* UI Properties */
+    /* UI Properties */
+    font-family: "roboto Bold" !important;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-0061f5);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #0061F5;
+    opacity: 1;
+}
+
+.p_inf_2 {
+    /* Layout Properties */
+    top: 784px;
+    left: 447px;
+    width: 727px;
+    height: 19px;
+    /* UI Properties */
+    font-family: "roboto regular";
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-343741);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #343741;
+    opacity: 1;
+}

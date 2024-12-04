@@ -1,0 +1,127 @@
+.div_root {
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background: #ffffff;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px 3px 0 0;
+    opacity: 1;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.div_root2 {
+    transform: scale(1.05);
+    /* Incrementa ligeramente el tamaño */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Sombra adicional */
+    /* width: 285px;
+    height: 256px; */
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background: #ffffff;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px 3px 0 0;
+    opacity: 1;
+    z-index: 2;
+}
+
+.img_premium {
+    position: absolute;
+    top: -7px;
+    right: 5px;
+}
+
+.input_select {
+    /* Layout Properties */
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+    /* UI Properties */
+    /* border: 1.1px solid #979797; */
+    background: transparent url("../../../assets/Oval4.jpg") no-repeat center;
+    opacity: 0.6;
+}
+
+.name {
+    /* Text Properties */
+    width: 112px;
+    height: 29px;
+    text-align: center;
+    font-family: "roboto Bold";
+
+    letter-spacing: 0;
+    color: #1a1446;
+    opacity: 1;
+}
+
+.price {
+    /* Text Properties */
+    width: 233px;
+    height: 51px;
+    text-align: center;
+    font: bold 42px/51px "roboto Bold";
+    letter-spacing: 0;
+    color: #28a3af;
+    opacity: 1;
+}
+
+.div_financing {
+    width: 272px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background-color: #d9e8fe;
+    border-radius: 16px;
+    opacity: 1;
+    margin: 0 10px;
+    font-family: "roboto Bold";
+    font-size: 14px;
+}
+
+.financing_icon {
+    /* Layout Properties */
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+.div_show_details {
+    font-family: "roboto regular";
+    padding: 15px;
+    border-top: #e4e4e4 1px solid;
+    width: 79%;
+    text-align: center;
+}
+
+.div_show_details p {
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-06748c);
+    letter-spacing: 0px;
+    color: #06748c;
+    opacity: 1;
+    font-family: "roboto regular";
+}
+
+.triangle {
+    position: absolute;
+    bottom: -40;
+    left: 36%;
+}
+
+.financiacion {
+    font-family: "roboto Bold";
+}

@@ -1,0 +1,95 @@
+.container {
+  width: 330px;
+  height: 362px;
+  /* top: 525px; */
+  /* left: 1110px; */
+  padding: 10px;
+  background-color: #ffffff;
+  justify-content: space-between;
+  border-left: 6px solid #99e5ea;
+  border-top: 1px solid #c0bfc0;
+  border-right: 1px solid #c0bfc0;
+  border-bottom: 1px solid #c0bfc0;
+  border-radius: 3px;
+  box-shadow: 0px 2px 4px #00000066;
+  position: fixed;
+  bottom: 100px;
+  right: 0px;
+  z-index: 3;
+}
+
+.close {
+  top: 10px;
+  right: 9px;
+  justify-content: right;
+  padding-left: 290px;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  display: flex;
+}
+
+.parrafo {
+  color: #343741;
+  top: 623px;
+  padding: 10px;
+  width: 188px;
+  height: 39px;
+  text-align: left;
+  font-size: 14px;
+  font-family: "roboto regular";
+}
+
+.contenedorCaritas {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
+  margin: 20px;
+  margin-left: -80px;
+  font-family: "roboto regular";
+}
+
+.carita {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-family: "roboto regular";
+}
+
+.plaseholder {
+  position: absolute;
+  /* Si el botón está posicionado en relación al contenedor */
+  top: 260px;
+  left: 16px;
+  width: 300px;
+  height: 36px;
+  background-color: #1773ba;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.parrafito {
+
+  width: 94px;
+  height: 13px;
+  color: #002663;
+  font-family: "roboto regular";
+  font-size: 10px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 60px;
+  margin-left: 110px;
+
+
+}
